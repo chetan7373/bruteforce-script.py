@@ -1,3 +1,12 @@
+#python script
+
+#####################################
+#copyright of Telugukalituts, 2021    #
+#http://bit.ly/38vrckS #
+#####################################
+
+
+
 import random
 import pyautogui
 import string
